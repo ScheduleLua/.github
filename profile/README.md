@@ -2,7 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/ScheduleLua/ScheduleLua-Framework/main/logo.png" alt="ScheduleLua Logo" width="300">
 
-[![Version](https://img.shields.io/badge/version-0.1.6-blue.svg)](https://thunderstore.io/c/schedule-i/p/ScheduleLua/ScheduleLua/versions/)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/ScheduleLua/ScheduleLua-Framework/blob/main/LICENSE)
 [![Status](https://img.shields.io/badge/status-beta-orange.svg)](https://schedulelua.github.io/ScheduleLua-Docs/guide/development-status.html)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://schedulelua.github.io/ScheduleLua-Docs/guide/contributing.html)
