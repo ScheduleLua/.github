@@ -16,7 +16,7 @@ ScheduleLua is organized across four main repositories:
 
 - **[ScheduleLua-Framework](https://github.com/ScheduleLua/ScheduleLua-Framework)** - The core modding framework that integrates MoonSharp Lua with Schedule I
 - **[ScheduleLua-Docs](https://github.com/ScheduleLua/ScheduleLua-Docs)** - Comprehensive documentation using VitePress for our API and guides
-- **[ScheduleLua-Discord](https://github.com/ScheduleLua/ScheduleLua-Discord)** - Discord bot for community support and updates
+- **[ScheduleLua-Bot](https://github.com/ScheduleLua/ScheduleLua-Bot)** - Discord bot for community support and updates
 - **[ScheduleLua-Annotations](https://github.com/ScheduleLua/ScheduleLua-Annotations)** - Type annotations for Lua to improve development experience
 
 ## 🌈 Contribution Guidelines
@@ -34,14 +34,10 @@ Check out our [contribution guide](https://schedulelua.github.io/ScheduleLua-Doc
 ## 👩‍💻 Useful Resources
 
 - **[Official Documentation](https://schedulelua.github.io/ScheduleLua-Docs/)** - Comprehensive guides and API reference
-- **[Schedule 1 Modding Discord](https://discord.gg/schedulelua)** - Community support and discussions
+- **[Schedule 1 Modding Discord](https://discord.gg/Ab8snpEFDn)** - Community support and discussions
 - **[Thunderstore Page](https://thunderstore.io/c/schedule-i/p/ScheduleLua/ScheduleLua/)** - Download the latest releases
 - **[Example Scripts](https://github.com/ScheduleLua/ScheduleLua-Framework/tree/main/Resources)** - Learn from working examples
 
 ## 🚀 Current Status
 
 ScheduleLua is currently in beta development. While core functionality is working, expect changes and improvements as development continues. Check our [development status page](https://schedulelua.github.io/ScheduleLua-Docs/guide/development-status.html) for details on what's implemented.
-
-## 📝 License
-
-ScheduleLua is licensed under the [GPL-3.0 License](https://github.com/ScheduleLua/ScheduleLua-Framework/blob/main/LICENSE).
