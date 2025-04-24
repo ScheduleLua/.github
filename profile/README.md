@@ -1,8 +1,5 @@
-# ScheduleLua
-
 <img src="https://raw.githubusercontent.com/ScheduleLua/ScheduleLua-Framework/main/logo.png" alt="ScheduleLua Logo" width="300">
 
-[![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/ScheduleLua/ScheduleLua-Framework/blob/main/LICENSE)
 [![Status](https://img.shields.io/badge/status-beta-orange.svg)](https://schedulelua.github.io/ScheduleLua-Docs/guide/development-status.html)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://schedulelua.github.io/ScheduleLua-Docs/guide/contributing.html)
 
